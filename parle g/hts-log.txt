@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Jul 2024 12:50:48 at https://www.parleproducts.com/brands/parle-g +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.parleproducts.com/brands/parle-g -O1 "D:\projects\Intership\parle g" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:51:56	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.parleproducts.com/brands/parle-g)
+12:51:56	Error: 	"Not Found" (404) at link https://www.parleproducts.com/images/loading_background.png (from https://www.parleproducts.com/css/colorbox.css)
+12:51:56	Error: 	"Not Found" (404) at link https://www.parleproducts.com/images/loading.gif (from https://www.parleproducts.com/css/colorbox.css)
+12:51:56	Error: 	"Not Found" (404) at link https://www.parleproducts.com/css/owl.video.play.png (from https://www.parleproducts.com/css/owl.carousel.min.css)
+12:51:56	Error: 	"Not Found" (404) at link https://www.parleproducts.com/images/warning.png (from https://www.parleproducts.com/css/dynamic.css)
+12:51:56	Error: 	"Not Found" (404) at link https://www.parleproducts.com/images/bult3.gif (from https://www.parleproducts.com/css/dynamic.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 127 links scanned, 119 files written (12594441 bytes overall) [11911457 bytes received at 172629 bytes/sec], 1001586 bytes transferred using HTTP compression in 25 files, ratio 24%
+(6 errors, 0 warnings, 0 messages)
